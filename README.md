@@ -1,4 +1,4 @@
-# aws-azure-login Bash completion
+# Bash completion for aws-azure-login
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/helpermethod/aws-azure-login-bash-completion/main/LICENSE)
 
