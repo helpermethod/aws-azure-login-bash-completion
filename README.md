@@ -7,4 +7,5 @@ A Bash completion script for [aws-azure-login](https://github.com/sportradar/aws
 ## Features
 
 * no external dependencies
+* autocompletes profile names
 * respects `AWS_CONFIG_FILE` environment variable
