@@ -9,3 +9,7 @@ A Bash completion script for [aws-azure-login](https://github.com/sportradar/aws
 * no external dependencies
 * autocompletes profile names
 * respects `AWS_CONFIG_FILE` environment variable
+
+## Installation
+
+Put the file `aws-azure-login` into the directory `${$XDG_DATA_HOME:-$HOME/.local/share/}/bash-completion/completions`.
