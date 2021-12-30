@@ -12,4 +12,4 @@ A Bash completion script for [aws-azure-login](https://github.com/sportradar/aws
 
 ## Installation
 
-Put the file `aws-azure-login` into the directory `${$XDG_DATA_HOME:-$HOME/.local/share/}/bash-completion/completions`.
+Put the file `aws-azure-login` into the directory `${BASH_COMPLETION_DIR:-${XDG_DATA_HOME:-$HOME/.local/share/}/bash-completion}/completions`.
